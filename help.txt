@@ -1,0 +1,4 @@
+#para rodar na maquina local:
+streamlit run /workspaces/aula_streamlit-tads_2.0/main.py --server.enableCORS false --server.enableXsrfProtection false
+#para parar:
+Ctrl+z
